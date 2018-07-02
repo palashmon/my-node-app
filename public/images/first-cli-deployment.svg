@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="50px" viewBox="0 0 56 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="First-Deployment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-693.000000, -368.000000)" id="Illustration">
+            <g transform="translate(693.000000, 368.000000)">
+                <g id="Group-2">
+                    <circle id="Oval" fill="#000000" cx="25" cy="25" r="25"></circle>
+                    <g id="Now" transform="translate(14.000000, 13.500000)" stroke="#FFFFFF">
+                        <polygon id="Shape" stroke-width="1.25" points="11 0 22 20 0 20"></polygon>
+                        <path d="M20.8717949,19.4285714 L10.7179487,0.571428571" id="Shape" stroke-width="1.11111111"></path>
+                        <path d="M21.4358974,19.4285714 L11.2820513,0.571428571" id="Shape" stroke-width="1.11111111"></path>
+                        <path d="M20.3076923,19.4285714 L10.7179487,1.14285714" id="Shape" stroke-width="1.11111111"></path>
+                        <path d="M20.3076923,19.4285714 L10.7179487,1.71428571" id="Shape" stroke-width="1.11111111"></path>
+                        <path d="M10.1538462,1.71428571 L20.3076923,19.4285714" id="Shape" stroke-width="1.11111111"></path>
+                        <path d="M19.7435897,20 L10.1538462,2.28571429" id="Shape" stroke-width="1.11111111"></path>
+                    </g>
+                    <g id="Group" transform="translate(35.000000, 28.000000)" stroke="#000000">
+                        <circle id="Oval" stroke-width="0.625" fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
+                        <polyline id="Checkmark" stroke-width="2" points="6 9.98494089 8.91552757 12.7651365 14.6806641 7"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

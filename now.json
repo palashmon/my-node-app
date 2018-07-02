@@ -1,0 +1,7 @@
+{
+	"dotenv": "variables.env",
+	"alias": "my-node-app-using",
+	"env": {
+		"NODE_ENV": "production"
+	}
+}
